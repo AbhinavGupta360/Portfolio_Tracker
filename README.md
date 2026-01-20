@@ -17,9 +17,9 @@ You can track your NSE stocks and analyze them with live prices, profit & loss a
 - Fetch **live prices** from Yahoo Finance.
 
 - Compute:
-  > Invested Value
-  > Current Value
-  > Profit & Loss
-  > Return %
+  - Invested Value
+  - Current Value
+  - Profit & Loss
+  - Return %
   
 - Save portfolio for future use.
